@@ -18,11 +18,11 @@ the simple format of every page looks like this:
 ```
 ## Tags
 
-Inline elements: (<span>, <img>, <a>...)
+Inline elements: `<span>`, `<img>`, `<a>`...)
 - Do not start with a new line
 - Take only the necessary width
 
-Block elements: (<div>, <h1>, <p>, <form>...)
+Block elements: (`<div>`, `<h1>`, `<p>`, `<form>`...)
 - Start with a new line
 - Take full width avaliable
 
